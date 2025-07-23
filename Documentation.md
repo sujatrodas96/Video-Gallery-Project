@@ -1,5 +1,3 @@
-# Video-Gallery-Project
-
 Overview
 ----------
 
